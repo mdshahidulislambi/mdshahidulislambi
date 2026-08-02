@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Md Shahidul Islam 👋
 
-<!--
-**mdshahidulislambi/mdshahidulislambi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Data Analyst
 
-Here are some ideas to get you started:
+I am passionate about transforming raw data into meaningful insights using Excel, Power BI, and SQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills
+- 📈 Microsoft Excel
+- 📊 Power BI
+- 🗄 SQL
+- 🔄 Power Query
+- 📋 Pivot Table
+- 📉 Dashboard Development
+- 📑 Power Pivot
+- 📐 DAX
+
+### 📂 Current Focus
+- Building Data Analytics Projects
+- Power BI Dashboards
+- SQL Practice
+- Portfolio Development
+
+### 📫 Connect with Me
+- 📧 Email: mdshahidul259@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/virtualshahidul
+- 📍 Bangladesh
+
+---
+⭐ Thanks for visiting my GitHub Profile!
