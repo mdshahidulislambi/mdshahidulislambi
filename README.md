@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="github-banner.png" alt="GitHub Banner" width="100%">
+ <img src="github-banner.png.png" alt="GitHub Banner" width="100%">
 </p>
-# Hi there, I'm Md Shahidul Islam 👋
+# Hi there, I'm Md Shahidul Islam 👋 
 
 ## 📊 Data Analyst
 
